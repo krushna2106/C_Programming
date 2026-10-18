@@ -1,2 +1,3 @@
 # C_Programming
-Logic Building &amp; DSA Repositories: Collections of basic-to-advanced C programs focusing on algorithms, pointers, memory allocation (malloc/tutorials), pattern printing, and data structures (linked lists, trees) built from scratch.
+"programs and assignment for Logic Building _C
+Official repository for C Logic Building assignments, featuring procedural problem sets, manual memory exercises, and algorithmic solutions.
