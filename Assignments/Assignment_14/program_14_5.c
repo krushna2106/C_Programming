@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                                                                 // 
 // Funtion Name:FactDiff                                                                                                                                           //
-// Descrition:program which accept number from user and display return summation of all factors and non factors                                                    //
+// Descrition:program which accept number from user and  return the differece between summation of factors and non factors                                                  //
 // Input:integer,integer                                                                                                                                           // 
 // Output:integer                                                                                                                                                  //
 // Author:krushan Ravindra chaudhari                                                                                                                                 //
