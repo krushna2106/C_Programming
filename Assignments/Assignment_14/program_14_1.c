@@ -18,6 +18,7 @@ int MultFact(int ino)
 
     for(icnt=1;icnt<ino;icnt++)
     {
+        
         if(ino%icnt==0)
         {
             isum=isum*icnt;
@@ -37,7 +38,7 @@ int main()
 
     iret=MultFact(ivalue);
 
-    printf("%d",iret);
+    printf("The multiplication  of factor is : %d",iret);
 
     return EXIT_SUCCESS;
 
